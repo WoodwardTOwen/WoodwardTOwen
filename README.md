@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Owen Woodward</h1>
-<h3 align="center">A passionate and motivated backend developer from England</h3>
+<h3 align="center">A passionate and motivated developer from England</h3>
 
 - 🔭 I’m currently working on [GainzTrackerV2](https://github.com/WoodwardTOwen/GainzTrackerV2)
 
