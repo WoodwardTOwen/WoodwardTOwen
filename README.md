@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Mobile Application Architecture Practices and Development**
 
-- 💬 Ask me about **Anything Mobile Dev or C# related!**
+- 💬 Ask me about **Anything Mobile App Development Related!**
 
 - 📫 How to reach me **woodwardtowen@gmail.com**
 
