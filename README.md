@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Owen Woodward</h1>
-<h3 align="center">A passionate and motivated developer from England</h3>
+<h3 align="center">An Experienced Mobile Application Developer in Android and Flutter</h3>
 
 - 🔭 I’m currently working on [SpotifyHelper](https://github.com/WoodwardTOwen/spotify_helper)
 
-- 🌱 I’m currently learning **Flutter and iOS Development**
+- 🌱 I’m currently learning **iOS Development**
 
 - 💬 Ask me about **Anything Mobile App Development Related!**
 
