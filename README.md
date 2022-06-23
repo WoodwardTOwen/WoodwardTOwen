@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [SpotifyHelper](https://github.com/WoodwardTOwen/spotify_helper)
 
-- 🌱 I’m currently learning **iOS Development**
+- 🌱 I’m currently learning **AR within Mobile Applications**
 
 - 💬 Ask me about **Anything Mobile App Development Related!**
 
